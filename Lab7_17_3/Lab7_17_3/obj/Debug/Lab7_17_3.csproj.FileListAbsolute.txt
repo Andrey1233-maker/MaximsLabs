@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\bin\Debug\Lab7_17_3.exe.config
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\bin\Debug\Lab7_17_3.exe
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\bin\Debug\Lab7_17_3.pdb
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.Form1.resources
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.Properties.Resources.resources
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.exe
+C:\Users\User\source\repos\Lab7_17_3\Lab7_17_3\obj\Debug\Lab7_17_3.pdb
